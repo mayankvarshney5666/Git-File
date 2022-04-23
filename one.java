@@ -7,6 +7,6 @@ public class one {
         int b;
         int a = b = 10;
         int c = a + b;
-        System.out.println("This is sum of a&b" + c);
+        System.out.println("This is sum of a & b" + c + "Units");
     }
 }
